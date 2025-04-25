@@ -4,6 +4,7 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:10.427078,
 https://cdnukpremium.webhostinghk.online/https://g55.turbosplayer.com/video/6a7ac848-7475-43af-b7f1-ac291dee118b/chunk/d5901a18-e514-4e41-ab5f-89a6db8eb68d
 #EXTINF:10.427089,
 https://cdnukpremium.webhostinghk.online/https://g55.turbosplayer.com/video/6a7ac848-7475-43af-b7f1-ac291dee118b/chunk/e41e180c-1295-407f-9614-52af7af37b2e
