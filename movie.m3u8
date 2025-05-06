@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=NO,AUTOSELECT=NO,LANGUAGE="en",URI="https://iq-com-cdn.mobileads.cloud/iqiyimgt653/get_plsub.m3u8?url=https://s4.athenacdn23.xyz/cdn/down/disk3/d94640a8f43d72e1b4fbb6ceb87d4bc6/Subtitle/533d52a0a2a64b0a03a46a6399d16d7a.srt"
+#EXT-X-STREAM-INF:BANDWIDTH=8000000,CODECS="avc1.640029,mp4a.40.2",SUBTITLES="subs"
 https://raw.githubusercontent.com/sakidahjumaat/tes/refs/heads/main/data.m3u8
