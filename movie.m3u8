@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="en",URI="https://iq-com-cdn.mobileads.cloud/iqiyimgt653/get_plsub.m3u8?url=https://raw.githubusercontent.com/sakidahjumaat/tes/refs/heads/main/soso.vtt"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="en",URI="https://young-pond-f393.m3u7-001.workers.dev/play.m3u8?url=https://raw.githubusercontent.com/sakidahjumaat/tes/refs/heads/main/soso.vtt"
 #EXT-X-STREAM-INF:BANDWIDTH=8000000,CODECS="avc1.640029,mp4a.40.2",SUBTITLES="subs"
 https://raw.githubusercontent.com/sakidahjumaat/tes/refs/heads/main/data.m3u8
