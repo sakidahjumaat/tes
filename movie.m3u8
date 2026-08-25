@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="en",URI="https://young-pond-f393.m3u7-001.workers.dev/play.m3u8?url=https://raw.githubusercontent.com/sakidahjumaat/tes/refs/heads/main/soso.vtt"
-#EXT-X-STREAM-INF:BANDWIDTH=8000000,CODECS="avc1.640029,mp4a.40.2",SUBTITLES="subs"
-https://raw.githubusercontent.com/sakidahjumaat/tes/refs/heads/main/data.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="movies" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/3kN0mj58gaOEEqa4qYky2sHIS8Z.jpg",Dragon Seduction (Loong of the Oceans) (2025)
+https://cdn1.turboviplay.com/data3/6a8bdd05bde86/6a8bdd05bde86.m3u8
