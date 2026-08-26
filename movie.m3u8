@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referer=https://turbosplayer.com/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+##EXTVLCOPT:http-referer=https://turbosplayer.com/
 #EXTINF:-1 type="movies" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/3kN0mj58gaOEEqa4qYky2sHIS8Z.jpg",Dragon 084655 (2025)
-https://cdn4.turboviplay.com/data3/6a8e31b1ed53c/6a8e31b1ed53c.m3u8
-#https://cdn1.turboviplay.com/data3/6a8bdd05bde86/6a8bdd05bde86.m3u8
-#https://g261.turbosplayer.com/file/c84efada-d728-4134-86be-901f9357e5e1/master.m3u8
+https://cdn4.turboviplay.com/data3/6a8e31b1ed53c/6a8e31b1ed53c.m3u8|Referer=https://turbosplayer.com/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36|Origin=https://turbosplayer.com/
