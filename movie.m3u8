@@ -4,4 +4,5 @@
 #EXTVLCOPT:http-origin=https://turbovidhls.com/
 #EXTVLCOPT:http-cookie=cf_clearance=YOUR_COOKIE; PHPSESSID=YOUR_SESSION
 #EXTINF:-1 type="movies" group-title="Video On Demand" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/3kN0mj58gaOEEqa4qYky2sHIS8Z.jpg",Dragon 084655 (2025) Y
-https://cdn4.turboviplay.com/data3/6a8e31b1ed53c/6a8e31b1ed53c.m3u8
+#https://cdn4.turboviplay.com/data3/6a8e31b1ed53c/6a8e31b1ed53c.m3u8
+https://g246.turbosplayer.com/file/ad816f0e-ede4-43be-8cd5-9ed79085abcd/master.m3u8
